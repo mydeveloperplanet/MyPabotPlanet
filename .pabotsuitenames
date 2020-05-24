@@ -1,0 +1,10 @@
+datasources:a55bb4a0bd38d3ab6bf87cd1e17b58b7b27b1875
+commandlineoptions:97d170e1550eee4afc0af065b78cda302a97674c
+suitesfrom:no-suites-from-option
+file:1a855181399eb752e98bf056f29e813cfa1cf96e
+--suite Test.Test Wait For 10S
+--suite Test.Test Wait For 3S
+--suite Test.Test Wait For 5S
+--suite Test.Sequentially.Test Sequentially 10S
+--suite Test.Sequentially.Test Sequentially 3S
+--suite Test.Sequentially.Test Sequentially 5S
